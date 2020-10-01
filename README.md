@@ -1,2 +1,3 @@
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets5.lottiefiles.com/packages/lf20_1LhsaB.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+
+![](https://giphy.com/embed/QNFhOolVeCzPQ2Mx85)
+![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif)
